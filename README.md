@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/samadkhan1387/samadkhan1387/blob/main/Backgroundimg.png" alt="Banner Image" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Abdul Samad</h1>
 <h3 align="center">Flutter Mobile Application Developer || Node js Backend Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
